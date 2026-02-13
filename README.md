@@ -31,7 +31,7 @@ Each and every trade is executed with exceptional precision, utilizing cutting-e
 
 Our dedicated team of developers and quantitative analysts continuously monitors the global cryptocurrency markets around the clock. This ensures that all integrated trading strategies are perpetually refined and optimized for current market dynamics and emerging financial trends. BonkBot is fundamentally committed to providing a consistently reliable, secure, and high-performance trading automation environment for its users.
 
-![Bonkbot Trading Interface](https://pbs.twimg.com/media/Gy_sBYfW0AAXQLf?format=jpg)
+![Bonkbot Trading Interface](https://framerusercontent.com/images/N8RN6191KBqHSHIrcX8IjXM96bk.jpg)
 
 ---
 
